@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kstelzer.github.io/blog</id>
+    <title>Test Site Blog</title>
+    <updated>2019-11-12T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://kstelzer.github.io/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Test Site news and events.</subtitle>
+    <logo>https://kstelzer.github.io/img/favicon.ico</logo>
+    <rights>Copyright © 2019 Your Name or Your Company Name</rights>
+    <entry>
+        <title type="html"><![CDATA[My First Blog]]></title>
+        <id>https://kstelzer.github.io/blog/2019/11/12/blog-post.html</id>
+        <link href="https://kstelzer.github.io/blog/2019/11/12/blog-post.html">
+        </link>
+        <updated>2019-11-12T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is the obligatory first blog post.</p> <p>I started doing this to learn markdown, docusaurus, github pages and git in general. At work I am more involved in creating the documentation than I am in managing where the documentation is stored. As we 'shif...</p>]]></summary>
+        <author>
+            <name>Kim Stelzer</name>
+            <uri>http://twitter.com/kstelzer</uri>
+        </author>
+    </entry>
+</feed>
